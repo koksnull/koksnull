@@ -1,5 +1,6 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A54F7&center=true&width=435&lines=I'm+%7BKoks%7D%2C+Backend+developer)](https://git.io/typing-svg)
-
+</div>
 <!--
 **koksnull/koksnull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
